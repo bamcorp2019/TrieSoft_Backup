@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^dev\.triesoftware\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.dev\.triesoftware\.com$
+RewriteRule ^/?$ "https\:\/\/dev\.triesoftware\.com\/" [R=301,L]
+Options +Indexes
+IndexOptions -HTMLTable -FancyIndexing

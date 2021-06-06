@@ -1,0 +1,239 @@
+Return-Path: <msprvs1=18618GFyop98r=bounces-246854-2@bounces-us.webex.com>
+Delivered-To: siddharth@triesoftware.com
+Received: from business69.web-hosting.com
+	by business69.web-hosting.com with LMTP
+	id SMPaCua/2F9J3SIAildYcQ
+	(envelope-from <msprvs1=18618GFyop98r=bounces-246854-2@bounces-us.webex.com>)
+	for <siddharth@triesoftware.com>; Tue, 15 Dec 2020 08:53:42 -0500
+Return-path: <msprvs1=18618GFyop98r=bounces-246854-2@bounces-us.webex.com>
+Envelope-to: siddharth@triesoftware.com
+Delivery-date: Tue, 15 Dec 2020 08:53:42 -0500
+Received: from mta-211-217.sparkpostmail.com ([147.253.211.217]:1107)
+	by business69.web-hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.93)
+	(envelope-from <msprvs1=18618GFyop98r=bounces-246854-2@bounces-us.webex.com>)
+	id 1kpAlk-009a3R-Ol
+	for siddharth@triesoftware.com; Tue, 15 Dec 2020 08:53:42 -0500
+X-MSFBL: u+UXstNgOv+xcO05TVcfUFNV6DVlluhzoNIyF9j3sgM=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJtZXNzYWdlX2lkIjoiMDAyNGI2YmZkODVmZDQ3NDU0M2QiLCJyIjoic2l
+	kZGhhcnRoQHRyaWVzb2Z0d2FyZS5jb20iLCJzdWJhY2NvdW50X2lkIjoiMiIsImN
+	1c3RvbWVyX2lkIjoiMjQ2ODU0In0=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=webex.com;
+	s=scph1218; t=1608040374; i=@webex.com;
+	bh=haaA6yrlM+KlGiABHHBKBCOmT/4MOjtk8NwTUh8yu9g=;
+	h=To:Message-ID:Date:Content-Type:Subject:From;
+	b=O2Y2Ub4FZiAdBeUQRWMdXkhQkpuwO6OhJG8hTN2122dHAmxd6gMc4vinhadc5r79L
+	 JZ/qpl9Kn8t24pAxUcCfBYxGjj6M8CxsreQPEZT0u8T5oM6NWqDSo/i287CfJTEBvt
+	 4b7ZzTs9GHaExvG0xsXPfDswLzLhPWxpVOGULT7w=
+To: siddharth@triesoftware.com
+Message-ID: <45.D3.29908.6BFB8DF5@aj.mta1vrest.cc.prd.sparkpost>
+Date: Tue, 15 Dec 2020 13:52:54 +0000
+Content-Type: multipart/alternative; boundary="_----CjUkb2Jg16RcTQq/Ma8i5g===_F4/D3-29908-6BFB8DF5"
+MIME-Version: 1.0
+Subject: Your Cisco Webex activation code
+From: Cisco Webex <webex_comm@webex.com>
+List-Unsubscribe: <mailto:unsubscribe@unsub.spmta.com?subject=unsubscribe:s7SoKKINVLNTszDVWwozfHeL6OK0Vm799oRjBZ90Lmw~|eyAicmNwdF90byI6ICJzaWRkaGFydGhAdHJpZXNvZnR3YXJlLmNvbSIsICJ0ZW5hbnRfaWQiOiAic3BjIiwgImN1c3RvbWVyX2lkIjogIjI0Njg1NCIsICJzdWJhY2NvdW50X2lkIjogIjIiLCAibWVzc2FnZV9pZCI6ICIwMDI0YjZiZmQ4NWZkNDc0NTQzZCIgfQ~~>
+List-Id: <spc.246854.2.sparkpostmail.com>
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "business69.web-hosting.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hello,, To activate your new Cisco Webex account, copy and
+    paste this 6-digit confirmation code in your browser screen. 971198 If you
+    can't find where to enter the code, at https://cart.webex.com/sign-up-webex
+    The Webex Team Need help? Contact us at https://collaborationhelp.cisco.com/contact.
+    
+ Content analysis details:   (0.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: webex.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.2 KAM_TRACKIMAGE         RAW: Message has a remote image explicitly meant
+                             for tracking
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+X-Spam-Flag: NO
+
+--_----CjUkb2Jg16RcTQq/Ma8i5g===_F4/D3-29908-6BFB8DF5
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,,
+      To activate your new Cisco Webex account, copy and paste this 6-digit confirmation code in your browser screen.
+
+      971198
+
+      If you can't find where to enter the code, at https://cart.webex.com/sign-up-webex
+      The Webex Team
+      Need help? Contact us at https://collaborationhelp.cisco.com/contact.
+
+      Privacy Statement Terms of Service
+      2020 Cisco and/or its affiliates. All rights reserved.
+      Cisco Systems, 170 West Tasman Dr, San Jose, CA 95135.
+      Sent to #{recipient}
+--_----CjUkb2Jg16RcTQq/Ma8i5g===_F4/D3-29908-6BFB8DF5
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html><html lang=3D"en"><head><title>Cisco Webex Meetings activati=
+on</title><meta charset=3D"utf-8"><meta name=3D"viewport" content=3D"width=
+=3Ddevice-width, initial-scale=3D1"><meta http-equiv=3D"X-UA-Compatible" co=
+ntent=3D"IE=3Dedge"><style>=0Aa:hover {=0A  color: #0a5e7d !important;=0A  =
+text-decoration: underline;=0A}=0Aa:focus {=0A  color: #124052 !important;=
+=0A  text-decoration: underline;=0A}=0Aa:active {=0A  color: #007ea8 !impor=
+tant;=0A  text-decoration: underline;=0A}=0Aa:hover[class=3D'ctaBlock'] {=
+=0A  color: #0ac9ef !important;=0A}=0Aa:hover[class=3D'ctaPriLink'] {=0A  b=
+ackground: #3ad3f1;=0A}=0Aa:hover[class=3D'ctaSecLink'] {=0A  background: #=
+000000;=0A}=0A@media screen and (max-width: 600px) {=0A  table[class=3D'ema=
+ilBody'] {=0A    border-radius: 0 !important;=0A  }=0A=0A  td[class=3D'ctaB=
+lockH1'] {=0A    font-size: 21px !important;=0A    padding: 14px 0 !importa=
+nt;=0A  }=0A=0A  td[class=3D'ctaBlockItem'] {=0A    font-size: 18px !import=
+ant;=0A    padding: 14px 0 !important;=0A  }=0A=0A  .blkVIB {=0A    padding=
+: 0 !important;=0A    display: none !important;=0A  }=0A=0A  .addGutters {=
+=0A    padding-left: 15px !important;=0A    padding-right: 15px !important;=
+=0A  }=0A=0A  .blkCorpID {=0A    padding-top: 15px !important;=0A    paddin=
+g-bottom: 25px !important;=0A  }=0A=0A  .blkCode {=0A    letter-spacing: 20=
+px !important;=0A    padding-left: 10px !important;=0A    padding-right: 10=
+px !important;=0A  }=0A=0A  .blkH1 {=0A    line-height: 120% !important;=0A=
+  }=0A}=0A@media screen and (max-width: 530px) {=0A  .adjDesktop {=0A    wi=
+dth: auto !important;=0A  }=0A=0A  .notPhone {=0A    display: none !importa=
+nt;=0A    width: 0 !important;=0A  }=0A}=0A</style></head><body class=3D"ma=
+in" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; he=
+ight: 100%; margin: 0; -webkit-margin-before: 0; -webkit-margin-after: 0; p=
+adding: 0; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line=
+-height: 150%; color: #333333;">=0D=0A<div style=3D"color:transparent;visib=
+ility:hidden;opacity:0;font-size:0px;border:0;max-height:1px;width:1px;marg=
+in:0px;padding:0px;border-width:0px!important;display:none!important;line-h=
+eight:0px!important;"><img border=3D"0" width=3D"1" height=3D"1" src=3D"htt=
+p://tracking-us.webex.com/q/2qGXpKz7HmGDlYjNFIaSDA~~/AAPERgA~/RgRhu0S2PVcDc=
+3BjQgoAJLa_2F_UdFQ9UhpzaWRkaGFydGhAdHJpZXNvZnR3YXJlLmNvbVgEAAAAAg~~"/></div=
+>=0D=0A<div class=3D"verify" style=3D"display: none; font-size: 1px; color:=
+ #fefefe; line-height: 1px; font-family: Helvetica, Arial, sans-serif; max-=
+height: 0; max-width: 0; opacity: 0; overflow: hidden;">Verify your new acc=
+ount.</div><div class=3D"table-container" style=3D"display: none; max-heigh=
+t: 0; overflow: hidden;"></div><table class=3D"table" width=3D"100%" bgcolo=
+r=3D"#F8F8F8" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"-we=
+bkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: =
+0px; mso-table-rspace: 0px; border-spacing: 0;"><tr><td class=3D"td-basic" =
+align=3D"center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adj=
+ust: 100%; mso-table-lspace: 0px; mso-table-rspace: 0px; height: 100%; marg=
+in: 0; -webkit-margin-before: 0; -webkit-margin-after: 0; padding: 0; font-=
+family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 150%; c=
+olor: #171B1F;" height=3D"100%"><p class=3D"blkVIB p-container p-basic" ali=
+gn=3D"center" style=3D"padding-top: 16px; padding-right: 0; padding-bottom:=
+ 0; padding-left: 0; -webkit-margin-before: 0; -webkit-margin-after: 0; col=
+or: #333333; padding: 0; margin: 0; line-height: 40px; height: 40px; vertic=
+al-align: middle; text-align: center; vertical-align: middle; font-size: 14=
+px;"></p><table class=3D"emailBody" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0" border=3D"0" width=3D"600" style=3D"-webkit-text-size-adjust:=
+100%;-ms-text-size-adjust:100%;mso-table-lspace:0px;mso-table-rspace:0px;bo=
+rder-spacing:0;text-align:left;max-width:600px;background:#FFFFFF;border-ra=
+dius:8px;"><tr><td class=3D"blkCorpID addGutters td-basic" style=3D"-webkit=
+-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0px;=
+ mso-table-rspace: 0px; height: 100%; margin: 0; -webkit-margin-before: 0; =
+-webkit-margin-after: 0; padding: 0; font-family: Arial, Helvetica, sans-se=
+rif; font-size: 16px; line-height: 150%; color: #171B1F; padding-left: 46px=
+; padding-top: 32px; padding-bottom: 36px;" height=3D"100%"><a href=3D"http=
+s://www.webex.com"><img class=3D"img-container" src=3D"http://images.use.we=
+bex.com/EloquaImages/clients/CMCWebEx/{b3884f6a-80c9-4cf0-9a08-8a1af9b3d047=
+}_WebexWM.png" alt=3D"Cisco WebEx Logo" width=3D"128" border=3D"0" style=3D=
+"-ms-interpolation-mode: bicubic; margin: 0; border: none; height: auto; ou=
+tline: none; text-decoration: none; width: 128px;"></a></td></tr><tr><td cl=
+ass=3D"blkH1 addGutters td-basic" style=3D"-webkit-text-size-adjust: 100%; =
+-ms-text-size-adjust: 100%; mso-table-lspace: 0px; mso-table-rspace: 0px; h=
+eight: 100%; margin: 0; -webkit-margin-before: 0; -webkit-margin-after: 0; =
+padding: 0; font-family: Arial, Helvetica, sans-serif; font-size: 16px; col=
+or: #171B1F; padding-left: 46px; line-height: 142%; padding-right: 114px;" =
+height=3D"100%">Hello,</td></tr><tr><td class=3D"addGutters addTop20 td-bas=
+ic" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0px; mso-table-rspace: 0px; height: 100%; margin: 0; -webki=
+t-margin-before: 0; -webkit-margin-after: 0; padding: 0; font-family: Arial=
+, Helvetica, sans-serif; font-size: 16px; line-height: 150%; color: #171B1F=
+; padding-left: 46px; padding-right: 114px;" height=3D"100%"><p class=3D"p-=
+basic" style=3D"padding-top: 16px; padding-right: 0; padding-bottom: 0; pad=
+ding-left: 0; -webkit-margin-before: 0; -webkit-margin-after: 0; color: #33=
+3333;">To activate your new Cisco Webex account, copy and paste this 6-digi=
+t confirmation code in your browser screen.</p></td></tr><tr><td class=3D"a=
+ddGutters addTop20 td-basic" style=3D"-webkit-text-size-adjust: 100%; -ms-t=
+ext-size-adjust: 100%; mso-table-lspace: 0px; mso-table-rspace: 0px; height=
+: 100%; margin: 0; -webkit-margin-before: 0; -webkit-margin-after: 0; paddi=
+ng: 0; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-hei=
+ght: 150%; color: #171B1F; padding-left: 46px; padding-top: 10px; padding-r=
+ight: 114px;" height=3D"100%"><table><tr><td class=3D"blkCode td-basic conf=
+irmation-code" bgcolor=3D"#F8F8F8" style=3D"-webkit-text-size-adjust: 100%;=
+ -ms-text-size-adjust: 100%; mso-table-lspace: 0px; mso-table-rspace: 0px; =
+height: 100%; margin: 0; -webkit-margin-before: 0; -webkit-margin-after: 0;=
+ font-family: Arial, Helvetica, sans-serif; font-size: 50px; line-height: 1=
+00%; letter-spacing: 20px; text-align: center; border-width: 0; color: #383=
+C40; border-radius: 4px; padding: 6px 0; line-height: 68px; width: 440px; t=
+ext-indent: 20px;" width=3D"440" height=3D"100%" align=3D"center">971198</t=
+d></tr></table></td></tr><tr><td class=3D"addGutters addTop20 td-basic" sty=
+le=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table=
+-lspace: 0px; mso-table-rspace: 0px; height: 100%; margin: 0; -webkit-margi=
+n-before: 0; -webkit-margin-after: 0; padding: 0; font-family: Arial, Helve=
+tica, sans-serif; font-size: 16px; line-height: 150%; color: #171B1F; paddi=
+ng-left: 46px;" height=3D"100%"><p style=3D"padding-top:16px;padding-right:=
+0;padding-bottom:0;padding-left:0;-webkit-margin-before:0;-webkit-margin-af=
+ter:0;">If you can't find where to enter the code,&nbsp;<a class=3D"href-ba=
+sic" href=3D"https://cart.webex.com/sign-up-webex=3Ffrom=3Demail" target=3D=
+"_blank" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100=
+%; margin: 0; border: none; height: auto; outline: none; color: #007ea8; fo=
+nt-weight: normal; text-decoration: none;">re-enter your email here</a>.</p=
+></td></tr><tr><td class=3D"addGutters td-basic" style=3D"-webkit-text-size=
+-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0px; mso-table=
+-rspace: 0px; height: 100%; margin: 0; -webkit-margin-before: 0; -webkit-ma=
+rgin-after: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; font-=
+size: 16px; line-height: 150%; color: #171B1F; padding-left: 46px; padding-=
+right: 114px; padding-top: 32px;" height=3D"100%">The Webex Team<br>Need he=
+lp=3F&nbsp;<a class=3D"href-basic" href=3D"https://help.webex.com/contact=
+=3Flanguage=3Den_in" target=3D"_blank" title=3D"Contact us for help" style=
+=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; =
+border: none; height: auto; outline: none; color: #007ea8; font-weight: nor=
+mal; text-decoration: none;">Contact us</a>.</td></tr><tr><td class=3D"addG=
+utters addTop40 td-basic" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0px; mso-table-rspace: 0px; height: 1=
+00%; margin: 0; -webkit-margin-before: 0; -webkit-margin-after: 0; padding:=
+ 0; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height=
+: 150%; color: #171B1F; padding-left: 46px; padding-right: 114px; padding-t=
+op: 40px;" height=3D"100%">&nbsp;</td><td></td></tr></table><table class=3D=
+"emailFooter table inner" align=3D"center" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adj=
+ust: 100%; mso-table-lspace: 0px; mso-table-rspace: 0px; border-spacing: 0;=
+ text-align: center; width: auto; max-width: 600px;"><tr><td class=3D"ftrLi=
+nk addTop35 td-basic td-ps-tos" style=3D"-webkit-text-size-adjust: 100%; -m=
+s-text-size-adjust: 100%; mso-table-lspace: 0px; mso-table-rspace: 0px; hei=
+ght: 100%; margin: 0; -webkit-margin-before: 0; -webkit-margin-after: 0; pa=
+dding: 0; font-family: Arial, Helvetica, sans-serif; line-height: 150%; pad=
+ding-top: 35px; font-size: 14px; color: #999999;" height=3D"100%"><a href=
+=3D"https://www.cisco.com/c/en_in/about/legal/privacy-full.html" target=3D"=
+_blank">Privacy Statement&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;<a href=3D"https://www.webex.com/terms-of-service.html"=
+ target=3D"_blank">&nbsp;Terms of Service</a></td></tr><tr><td class=3D"ftr=
+Copy addTop35 td-basic td-footer" style=3D"-webkit-text-size-adjust: 100%; =
+-ms-text-size-adjust: 100%; mso-table-lspace: 0px; mso-table-rspace: 0px; h=
+eight: 100%; margin: 0; -webkit-margin-before: 0; -webkit-margin-after: 0; =
+padding: 0; font-family: Arial, Helvetica, sans-serif; line-height: 150%; p=
+adding-top: 35px; font-size: 11px; color: #999999; text-decoration: none; p=
+adding-bottom: 40px;" height=3D"100%">&copy;&nbsp;2020 Cisco and/or its aff=
+iliates. All rights reserved.</td></tr></table></td></tr></table>=0D=0A<img=
+ border=3D"0" width=3D"1" height=3D"1" alt=3D"" src=3D"http://tracking-us.w=
+ebex.com/q/KkwuMWCRlVsryJMvJOzN-A~~/AAPERgA~/RgRhu0S2PlcDc3BjQgoAJLa_2F_UdF=
+Q9UhpzaWRkaGFydGhAdHJpZXNvZnR3YXJlLmNvbVgEAAAAAg~~">=0D=0A</body></html>
+--_----CjUkb2Jg16RcTQq/Ma8i5g===_F4/D3-29908-6BFB8DF5--
+

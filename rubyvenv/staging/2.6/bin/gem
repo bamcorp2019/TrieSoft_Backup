@@ -1,0 +1,4 @@
+#!/bin/bash
+PWD=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+source "$PWD/activate"
+exec "$RUBYHOME/bin/gem" --config-file "$VIRTUAL_ENV/gemrc" "$@"

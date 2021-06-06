@@ -1,0 +1,130 @@
+Return-Path: <pavan.leo007@gmail.com>
+Delivered-To: sales@triesoftware.com
+Received: from business69.web-hosting.com
+	by business69.web-hosting.com with LMTP
+	id IKggDctQ717Iyz0AildYcQ
+	(envelope-from <pavan.leo007@gmail.com>)
+	for <sales@triesoftware.com>; Sun, 21 Jun 2020 08:21:31 -0400
+Return-path: <pavan.leo007@gmail.com>
+Envelope-to: sales@triesoftware.com
+Delivery-date: Sun, 21 Jun 2020 08:21:31 -0400
+Received: from mail-qt1-f170.google.com ([209.85.160.170]:40913)
+	by business69.web-hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.93)
+	(envelope-from <pavan.leo007@gmail.com>)
+	id 1jmyyU-00H0Xb-8v
+	for sales@triesoftware.com; Sun, 21 Jun 2020 08:21:31 -0400
+Received: by mail-qt1-f170.google.com with SMTP id i16so10670917qtr.7
+        for <sales@triesoftware.com>; Sun, 21 Jun 2020 05:21:06 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:date:to:message-id:subject:mime-version
+         :content-transfer-encoding;
+        bh=ogykrCIdC425UrygRI6MBr9XH8pV9Zc2Rwwg3cUK5GA=;
+        b=dH+Z57v2zM5QQCCouq1r7WenV1JYmHVm6SFFDY3JHWttqT3+JoxhlBBc0t2Anz+AGQ
+         m8nil0lvWcsolKB9pQ23Q0I+0hz48728VVss0tjJFy+5r/2Q9So8wQXY74vNuJAwxVWK
+         +EXuZrlZCBimZziOSKT+jo6tBHrZFakalJO06KJIIoorAcMWO1GIMMyM0tlINkPZqZAF
+         R+Hs/BjQt8rmTIaI+whIQKchDciEcjQOyIuIb8ykVOwEgzjPqPgZ27jXWHxyxdcosIzW
+         IFNjGt94F4a035zT4O6T0fNiX5jWi7mJSqzRET8EaenP6CkQlGoLWIoVHk6tQ83igTwC
+         0mtw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:date:to:message-id:subject:mime-version
+         :content-transfer-encoding;
+        bh=ogykrCIdC425UrygRI6MBr9XH8pV9Zc2Rwwg3cUK5GA=;
+        b=DRJ1BrGlIiJcNjQEoSpRgkfuZ+E0+Iimb64ncqWNO2uJHWsocrBEy6/4jKw9UADpyc
+         7s4rMVbmvxQ8UvVAxf7/8rkfp6tzUpXyOpuCPztPCWlrK7bJmy8RID+1hH+fh36GcV6i
+         YS85hlR76uYosOeZRIqpfQSpxZdd4bxGjxTfxZOcnOnbSN1mC1jJe8vGGJxOxNO1QTeg
+         g85qHZvMP0BSMkJvIPkQVC0YIuec6onJ2XWMqu2/uWvCF/7Scm6khm/JtL8RqvqYzrIp
+         iDRs8jBm5X0i2eB5UHYru5Rp5MRPX5wV8qnk/xcaORZZP+ET/Ui8CF2LG9pjkFWlQKBb
+         7nOQ==
+X-Gm-Message-State: AOAM531evtuXwk2pVZYp8w4pxo5cEgp+XoJseo26eWhqdZBe7cZrn8EM
+	aCNjfpjz4fM6DaYxSPjOPJHGUvJ9
+X-Google-Smtp-Source: ABdhPJz7AImpavZa8T/Yw2DqCZSVi0qbAUw7er+BT56Zf8BK6X8OnF9hWJg/5trI/IR3vOQPCxDg+g==
+X-Received: by 2002:ac8:7350:: with SMTP id q16mr11803253qtp.74.1592742044937;
+        Sun, 21 Jun 2020 05:20:44 -0700 (PDT)
+Received: from localhost.localdomain (ec2-3-19-209-78.us-east-2.compute.amazonaws.com. [3.19.209.78])
+        by smtp.gmail.com with ESMTPSA id j203sm2779450qke.13.2020.06.21.05.20.44
+        for <sales@triesoftware.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Sun, 21 Jun 2020 05:20:44 -0700 (PDT)
+From: pavan.leo007@gmail.com
+X-Google-Original-From: pavanleo007@gmail.com
+Date: Sun, 21 Jun 2020 12:20:41 +0000
+To: sales@triesoftware.com
+Message-ID: <5eef5099706c_6823d18716bb@ip-172-31-39-192.mail>
+Subject: You got a new order!
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Spam-Status: No, score=0.1
+X-Spam-Score: 1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "business69.web-hosting.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  You got a new order from pavan! Order details Name: pavan 
+ Content analysis details:   (0.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit
+                             [pavan.leo007[at]gmail.com]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [pavan.leo007[at]gmail.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.0 RCVD_IN_MSPIKE_H3      RBL: Good reputation (+3)
+                             [209.85.160.170 listed in wl.mailspike.net]
+ -0.0 RCVD_IN_MSPIKE_WL      Mailspike good senders
+X-Spam-Flag: NO
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      /* Email styles need to be inline */
+    </style>
+  </head>
+
+  <body>
+    <!DOCTYPE html>
+<html>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+  </head>
+  <body>
+    <p>You got a new order from pavan!</p>
+    <p>
+    Order details<br>
+    --------------------------
+    </p>
+    <p>Name: pavan</p>
+    <p>Email: pavan@triesoftware.com</p>
+    <p>Address: google</p>
+    <p>Phone: 7892556182</p>
+    <p>
+    Message:<br>
+    ----------
+    </p>
+    <p>chat</p>
+    <p>india</p>
+    <p>demo/contact us</p>
+  </body>
+</html>
+
+  </body>
+</html>

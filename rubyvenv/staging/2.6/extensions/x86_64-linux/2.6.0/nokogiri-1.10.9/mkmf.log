@@ -1,0 +1,11 @@
+"gcc -o conftest -I/opt/alt/ruby26/include/ruby-2.6.0/x86_64-linux-gnu -I/opt/alt/ruby26/include/ruby-2.6.0/ruby/backward -I/opt/alt/ruby26/include/ruby-2.6.0 -I.    -O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -mtune=generic -fPIC  conftest.c  -L. -L/opt/alt/ruby26/lib64 -Wl,-rpath,/opt/alt/ruby26/lib64 -L. -fstack-protector-strong -rdynamic -Wl,-export-dynamic  -m64   -Wl,-rpath,/opt/alt/ruby26/lib64 -L/opt/alt/ruby26/lib64 -lruby  -lm   -lc "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return 0;
+6: }
+/* end */
+

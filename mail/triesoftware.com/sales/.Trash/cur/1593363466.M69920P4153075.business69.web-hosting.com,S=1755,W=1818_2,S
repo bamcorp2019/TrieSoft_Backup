@@ -1,0 +1,63 @@
+Return-Path: <sales@triesoftware.com>
+Delivered-To: sales@triesoftware.com
+Received: from business69.web-hosting.com
+	by business69.web-hosting.com with LMTP
+	id qOiTAwrM+F7zXj8AildYcQ
+	(envelope-from <sales@triesoftware.com>)
+	for <sales@triesoftware.com>; Sun, 28 Jun 2020 12:57:46 -0400
+Return-path: <sales@triesoftware.com>
+Envelope-to: sales@triesoftware.com
+Delivery-date: Sun, 28 Jun 2020 12:57:46 -0400
+Received: from ec2-3-19-209-78.us-east-2.compute.amazonaws.com ([3.19.209.78]:54204 helo=localhost.localdomain)
+	by business69.web-hosting.com with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <sales@triesoftware.com>)
+	id 1jpacj-00HREl-Hz
+	for sales@triesoftware.com; Sun, 28 Jun 2020 12:57:46 -0400
+Date: Sun, 28 Jun 2020 16:57:44 +0000
+From: sales@triesoftware.com
+To: sales@triesoftware.com
+Message-ID: <5ef8cc089db0d_56f23e5894882@ip-172-31-39-192.mail>
+Subject: You got a new order! by Google order id -- 39
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      /* Email styles need to be inline */
+    </style>
+  </head>
+
+  <body>
+    <!DOCTYPE html>
+<html>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+  </head>
+  <body>
+    <p>You got a new order from a!</p>
+    <p>
+    Order details<br>
+    --------------------------
+    </p>
+    <p>Name: a</p>
+    <p>Email: a</p>
+    <p>Address: Google</p>
+    <p>Phone: a</p>
+    <p>
+    Message:<br>
+    ----------
+    </p>
+    <p>Product name: a</p>
+    <p>country : a</p>
+    <p>request type: demo/contact us</p>
+  </body>
+</html>
+
+  </body>
+</html>

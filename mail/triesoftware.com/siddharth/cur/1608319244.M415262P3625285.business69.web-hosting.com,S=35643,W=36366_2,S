@@ -1,0 +1,723 @@
+Return-Path: <bounce@use.webex.com>
+Delivered-To: siddharth@triesoftware.com
+Received: from business69.web-hosting.com
+	by business69.web-hosting.com with LMTP
+	id aBPgFwwB3V9FUTcAildYcQ
+	(envelope-from <bounce@use.webex.com>)
+	for <siddharth@triesoftware.com>; Fri, 18 Dec 2020 14:20:44 -0500
+Return-path: <bounce@use.webex.com>
+Envelope-to: siddharth@triesoftware.com
+Delivery-date: Fri, 18 Dec 2020 14:20:44 -0500
+Received: from mail01.use.webex.com ([142.0.167.102]:4181)
+	by business69.web-hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <bounce@use.webex.com>)
+	id 1kqLIs-00FDT5-Qq
+	for siddharth@triesoftware.com; Fri, 18 Dec 2020 14:20:44 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dk1024-2012; d=em.webex.com;
+ h=Message-ID:List-Unsubscribe:MIME-Version:From:To:Reply-To:Date:Subject:
+ Content-Type; i=webex_comm@em.webex.com;
+ bh=wS7it0c6Bcco1j2FRN+umNAGO/FNlgflnHcga5MxoOU=;
+ b=YQSUhvHnddRTsENNEW1BtCvxonrvdpOiXistwHaTtEwo0YcbPg2ek9sqkJFcIlFpiiNbZ6L8CS1R
+   90eOYBuVF/uBXZHE2FvYS6/jmnxcop0DXUVXEtMV8/YpayMks29GuVuHasTHGi4XrysqAsBVmfWT
+   PhtPZrNMjFDQWSwsA8E=
+Received: from P04SNJ304 (10.34.116.102) by mail01.use.webex.com id hrk0ds2lr0or for <siddharth@triesoftware.com>; Fri, 18 Dec 2020 14:19:57 -0500 (envelope-from <bounce@use.webex.com>)
+Message-ID: <f2443fced2514e12a702c96c7a8cb406@1485857328>
+X-Binding: 1485857328
+X-elqSiteID: 1485857328
+X-elqPod: 0x6ED25D1CCB618B17C4357B2C4798A044DC50841ACF3CE6BF653C04FCEE1083BC
+X-cid: 679-3772
+List-Unsubscribe: <mailto:spamproc@fbl.en25.com?subject=ListUnsub_1485857328_f2443fced2514e12a702c96c7a8cb406>,
+ <http://app.use.webex.com/e/u?s=1485857328&elq=f2443fced2514e12a702c96c7a8cb406&t=17>
+MIME-Version: 1.0
+From: "Cisco Webex" <webex_comm@em.webex.com>
+To: siddharth@triesoftware.com
+Reply-To: "Cisco Webex" <webex_comm@cisco.com>
+Date: 18 Dec 2020 14:19:57 -0500
+Subject: Unlimited Webex for more unforgettable moments
+Content-Type: multipart/alternative;
+ boundary=--boundary_1229110_c8932a7c-e963-4357-8ccc-b0c1f2a3fd49
+X-Spam-Status: No, score=0.1
+X-Spam-Score: 1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "business69.web-hosting.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  CISCO WEBEX view in browser <https://app.use.webex.com/e/es?s=1485857328&e=15218834&elqTrackId=ECD5DFA93ACEE0EDD64B035F785388ED&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1>
+    
+ Content analysis details:   (0.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: webex.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_IMAGE_RATIO_06    BODY: HTML has a low ratio of text to image
+                             area
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+X-Spam-Flag: NO
+
+
+----boundary_1229110_c8932a7c-e963-4357-8ccc-b0c1f2a3fd49
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+IA0KQ0lTQ08gV0VCRVgNCi0tLS0tLS0tLS0tLS0tLS0tLQ0KDQp2aWV3IGluIGJyb3dz
+ZXIgDQo8aHR0cHM6Ly9hcHAudXNlLndlYmV4LmNvbS9lL2VzP3M9MTQ4NTg1NzMyOCZl
+PTE1MjE4ODM0JmVscVRyYWNrSWQ9RUNENURGQTkzQUNFRTBFREQ2NEIwMzVGNzg1Mzg4
+RUQmZWxxPWYyNDQzZmNlZDI1MTRlMTJhNzAyYzk2YzdhOGNiNDA2JmVscWFpZD0zNzcy
+JmVscWF0PTE+DQoNCiAgICAgIA0KDQpDZWxlYnJhdGluZyBtb3JlIHRvZ2V0aGVyIHRp
+bWUgICAgICAgDQpXZSBrbm93IHRoaXMgaG9saWRheSBzZWFzb24gd2lsbCBiZSBkaWZm
+ZXJlbnQgdGhhbiBvdGhlcnMuIFRoYXQncyB3aHkgd2Ugd2FudCB0byBnaXZlIHlvdSBh
+biBleHRyYSBsaXR0bGUgZ2lmdCB0byBoZWxwIHlvdSB3aW5kIGRvd24gZnJvbSB3b3Jr
+IGFuZCBlbmpveSBleHRyYSB0aW1lIHdpdGggZmFtaWx5IGFuZCBmcmllbmRzLiAgICAg
+IA0KSW4gdGhlIHNwaXJpdCBvZiB0aGUgaG9saWRheXMgcGxlYXNlIGVuam95IHVubGlt
+aXRlZCBtZWV0aW5nIHRpbWUgZnJvbSBEZWNlbWJlciAyMSwgMjAyMCB0byBKYW51YXJ5
+IDIsIDIwMjEuICAgICAgDQpIYXBweSBIb2xpZGF5cw0KRnJvbSB0aGUgV2ViZXggVGVh
+bSAgICAgIA0KDQoNCkVNIyAzNzcyIHwgU2VudCB0byBzaWRkaGFydGhAdHJpZXNvZnR3
+YXJlLmNvbQ0KDQoNCg0KDQpXZWJleC5jb20gPGh0dHBzOi8vYXBwLnVzZS53ZWJleC5j
+b20vZS9lcj9zPTE0ODU4NTczMjgmbGlkPTI4OTImZWxxVHJhY2tJZD03OTgwOGNmMjBi
+YTk0OTljOTFhNGNiZjkyNTFiMjgzZSZlbWFpbEFkZHJlc3M9c2lkZGhhcnRoJTQwdHJp
+ZXNvZnR3YXJlLmNvbSZjb3VudHJ5PUlOJmVscT1mMjQ0M2ZjZWQyNTE0ZTEyYTcwMmM5
+NmM3YThjYjQwNiZlbHFhaWQ9Mzc3MiZlbHFhdD0xJmVscWNzdD0yNzImZWxxY3NpZD0x
+NTU+IHwgUHJpdmFjeSA8aHR0cHM6Ly9hcHAudXNlLndlYmV4LmNvbS9lL2VyP3M9MTQ4
+NTg1NzMyOCZsaWQ9Mjg5MSZlbHFUcmFja0lkPTM5NTQ1YjQwMTYzYjRjNTQ4YTFhN2Nl
+OGIzMjdmMjJiJmVtYWlsQWRkcmVzcz1zaWRkaGFydGglNDB0cmllc29mdHdhcmUuY29t
+JmNvdW50cnk9SU4mZWxxPWYyNDQzZmNlZDI1MTRlMTJhNzAyYzk2YzdhOGNiNDA2JmVs
+cWFpZD0zNzcyJmVscWF0PTEmZWxxY3N0PTI3MiZlbHFjc2lkPTE1NT4gfCBUZXJtcyAm
+IENvbmRpdGlvbnMgPGh0dHBzOi8vYXBwLnVzZS53ZWJleC5jb20vZS9lcj9zPTE0ODU4
+NTczMjgmbGlkPTIyOTYmZWxxVHJhY2tJZD1kMWMzODU0NGZjYWQ0M2FmYTEwNDg0YzVl
+MTBhMzAxMyZlbHE9ZjI0NDNmY2VkMjUxNGUxMmE3MDJjOTZjN2E4Y2I0MDYmZWxxYWlk
+PTM3NzImZWxxYXQ9MSZlbHFjc3Q9MjcyJmVscWNzaWQ9MTU1PiB8IENvb2tpZXMgPGh0
+dHBzOi8vYXBwLnVzZS53ZWJleC5jb20vZS9lcj9zPTE0ODU4NTczMjgmbGlkPTI4OTAm
+ZWxxVHJhY2tJZD0wNzgzMjAwMTFkYzA0MzgzYjBiMmY3MjYxYzE0NGViYSZlbWFpbEFk
+ZHJlc3M9c2lkZGhhcnRoJTQwdHJpZXNvZnR3YXJlLmNvbSZjb3VudHJ5PUlOJmVscT1m
+MjQ0M2ZjZWQyNTE0ZTEyYTcwMmM5NmM3YThjYjQwNiZlbHFhaWQ9Mzc3MiZlbHFhdD0x
+JmVscWNzdD0yNzImZWxxY3NpZD0xNTU+IHwgVHJhZGVtYXJrcyA8aHR0cHM6Ly9hcHAu
+dXNlLndlYmV4LmNvbS9lL2VyP3M9MTQ4NTg1NzMyOCZsaWQ9MjI5NSZlbHFUcmFja0lk
+PWEwYzE4YzFiZGE2NDQzMzliZjBiNjViYTBlNTU3Y2MwJmVscT1mMjQ0M2ZjZWQyNTE0
+ZTEyYTcwMmM5NmM3YThjYjQwNiZlbHFhaWQ9Mzc3MiZlbHFhdD0xJmVscWNzdD0yNzIm
+ZWxxY3NpZD0xNTU+DQoNCkNsaWNrIGhlcmUgdG8gdW5zdWJzY3JpYmUgPGh0dHBzOi8v
+YXBwLnVzZS53ZWJleC5jb20vZS9lcj9zPTE0ODU4NTczMjgmbGlkPTMwMTYmZWxxVHJh
+Y2tJZD1hNTIxOTAxNjVlN2M0MzI4ODdmMjkyYWM5ZjY1ZDgwMCZlbWFpbE5hbWU9Rlky
+MV9FTl8xX0hvbGlkYXlQcm9tb18zNzcyJldFQ0lEPTY3OSZlbHE9ZjI0NDNmY2VkMjUx
+NGUxMmE3MDJjOTZjN2E4Y2I0MDYmZWxxYWlkPTM3NzImZWxxYXQ9MSZlbHFjc3Q9Mjcy
+JmVscWNzaWQ9MTU1PiBmcm9tIENpc2NvIG1hcmtldGluZyBjb21tdW5pY2F0aW9ucy4g
+Q2lzY28gd2lsbCBjb250aW51ZSB0byBzZW5kIHNlcnZpY2UvdHJhbnNhY3Rpb25hbCBj
+b21tdW5pY2F0aW9ucywgaW5jbHVkaW5nIHRob3NlIHRoYXQgaGF2ZSB0byBkbyB3aXRo
+IGFueSBhY2NvdW50cyB0aGF0IHlvdSBtYXkgaGF2ZSB3aXRoIHVzLg0KDQpDb3B5cmln
+aHQgwqkgMjAyMCwgQ2lzY28gU3lzdGVtcywgSW5jLiBBbGwgcmlnaHRzIHJlc2VydmVk
+LiBDaXNjbywgQ2lzY28gU3lzdGVtcyBhbmQgdGhlIENpc2NvIFN5c3RlbXMgbG9nbyBh
+cmUgcmVnaXN0ZXJlZCB0cmFkZW1hcmtzIG9mIENpc2NvIFN5c3RlbXMsIEluYy4gYW5k
+L29yIGl0cyBhZmZpbGlhdGVzIGluIHRoZSBVbml0ZWQgU3RhdGVzIGFuZCBjZXJ0YWlu
+IG90aGVyIGNvdW50cmllcy4NCg0KDQoNCg0KQ2lzY28gQ29tbWVyY2UgSW5kaWEgUHJp
+dmF0ZSBMaW1pdGVkDQpQcmVzdGlnZSBTb2xpdGFpcmUsDQpMZXZlbC1JSSwgTm8uIDYs
+IEJydW50b24gUm9hZA0KQmFuZ2Fsb3JlDQpLYXJuYXRha2ENCjU2MDAwMQ0KSW5kaWEN
+Cg0K
+----boundary_1229110_c8932a7c-e963-4357-8ccc-b0c1f2a3fd49
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<title>Webex Holiday Promo</title>
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+<style>
+/*a:hover{color:#024e83 !important;text-decoration:underline}
+a:hover[class=ctaBlock]{color:#0AC9EF !important}
+a:hover[class=ctaPriLink]{background:#00A0D1}
+a:hover[class=ctaSecLink]{background:#171B1F}*/
+a:hover[class=ctaPriLink]{color:#EFE5C1 !important;}
+a:hover[class=ctaFooterLnk]{opacity:0.5;}
+</style>
+
+<!-- CSS Reset -->
+<style type="text/css">
+/*
+ What it does: Remove spaces around the email design added by some email clients. */
+/* Beware: It can remove the padding / margin and add a background color to the compose a reply window. */
+html,
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  height: 100% !important;
+  width: 100% !important;
+  min-width: 675px;
+  -webkit-text-size-adjust:100%;
+  -ms-text-size-adjust:100%;
+  font-family: 'CiscoSansTT', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 400;	
+}
+
+/* 
+What it does: Stops email clients resizing small text. */
+* {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* What it does: Forces Outlook.com to display emails full width. */
+.ExternalClass {
+  width: 100%;
+}
+
+/* What is does: Centers email on Android 4.4 */
+div[style*="margin: 16px 0"] {
+  margin: 0 !important;
+}
+
+/* What it does: Stops Outlook from adding extra spacing to tables. */
+table,
+td {
+  mso-table-lspace: 0pt !important;
+  mso-table-rspace: 0pt 
+!important;
+}
+
+/* What it does: Fixes webkit padding issue. Fix for Yahoo mail table alignment bug. Applies table-layout to the first 2 tables then removes for anything nested deeper. */
+table {
+  border-spacing: 0 !important;
+  border-collapse: collapse !important;
+  table-layout: fixed !important;
+  margin: 0 auto !important;
+}
+
+table table table {
+  table-layout: auto;
+  text-align: center;
+}
+
+/* What it does: Uses a better rendering method when resizing images in IE. */
+img {
+  
+-ms-interpolation-mode: bicubic;
+}
+
+/* What it does: Overrides styles added when Yahoo's auto-senses a link. */
+.yshortcuts a {
+  border-bottom: none !important;
+}
+
+
+h1 {
+  font-size: 42px;
+  font-weight: 500;
+  font-color:#ffffff;
+  color:#ffffff;
+  text-align: center;
+  .mso h1 {
+font-family: 'CiscoSansTT', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+  line-height: 63px;
+mso-line-height-rule: exactly;
+mso-text-raise: 2px;
+}
+
+/* Prevent Windows 10 Mail from underlining 
+links. Styles for underlined links should be inline. */
+a {
+  text-decoration: none;
+}
+  </style>
+
+
+<style type="text/css">
+/*
+ FIX CLIENT-SPECIFIC STYLES */
+/* Testing Cisco font callout. Need to understand where fonts are downloaded from. What if user does not have on computer? */
+/* @font-face {font-family:'CiscoSansTT Heavy';} */
+/* @font-face {font-family:'CiscoSansTT ExtraLight';} */
+  /* Prevent mobile devices from changing text sizes */
+/* Testing Cisco font callout. Cannot be inlined with other fonts, must allow fallback to separate font statement if user does not have font */
+/* span { font-weight:inherit 
+!important; font-size:inherit !important; font-family:'CiscoSansTT ExtraLight'; line-height:inherit !important; } */
+  /* Remove spacing between tables in Outlook 2007 and up */
+/* SET BASELINE STYLES FOR EMAIL */
+/* EMAIL OBJECT DEFINITIONS */
+  /* iOS links, blue */
+    a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important; }
+  /* 
+Tablet-specific adjustments */
+  @media screen and (min-width: 661px) and (max-width: 768px) {
+    /* #TODO: Add tap spacing? */
+  }
+  /* Phone-specific adjustments */
+  @media screen and (max-width:640px) {
+    table[class=emailBody] { border-radius:0 !important; }
+    td[class=ctaBlockH1] { font-size:21px !important; padding:14px 0 !important; }
+    td[class=ctaBlockItem] { font-size:18px !important; padding:14px 0 !important; }
+    .blkVIB { padding:0 !important; display:none !important; }
+  
+  .addGutters { padding-left:15px !important; padding-right:15px !important; }
+    .blkCorpID { padding-top:15px !important; padding-bottom:25px !important; }
+    .blkH1 { line-height:120% !important; }
+.mobiletextbig {font-size: 25px !important; }
+	
+.hidden-desktop {
+display: none !important;
+
+}
+.hidden-mobile {
+display: none !important;
+}
+}
+@media screen and (max-width:530px) {
+.adjDesktop { width:auto !important; }
+.notPhone { display:none !important; width:0 !important; }
+
+}
+        
+.email-container {
+width: 100% !important;
+}
+
+/* What it does: Forces elements to resize to the full width of their container. Useful for resizing images beyond their max-width. */
+.fluid,
+.fluid-centered {
+max-width: 100% !important;
+height: auto !important;
+margin-left: auto !important;
+margin-right: auto !important;
+}
+
+/* And center justify these ones. */
+.fluid-centered {
+margin-left: auto !important;
+margin-right: auto !important;
+}
+
+/* What it does: Forces table cells into 
+full-width rows. */
+.stack-column,
+.stack-column-center {
+display: block !important;
+width: 100% !important;
+max-width: 100% !important;
+direction: ltr !important;
+}
+
+/* And center justify these ones. */
+.stack-column-center {
+text-align: center !important;
+}
+
+/* What it does: Generic utility class for centering. Useful for images, buttons, and nested tables. */
+.center-on-narrow {
+text-align: center !important;
+display: block !important;
+margin-left: auto !important;
+margin-right: 
+auto !important;
+float: none !important;
+}
+
+table.center-on-narrow {
+display: inline-block !important;
+}
+}
+
+/* What it does: Adjust typography on small screens to improve readability */
+.email-container p {
+font-size: 17px !important;
+}
+  }
+  @media screen and (max-width:530px) {
+    .adjDesktop { width:auto !important; }
+    .notPhone { display:none !important; width:0 !important; }
+  }
+
+/* Other Outlook Styling TV */
+#outlook 
+a{
+padding:0;
+}
+
+table{
+mso-table-lspace:0pt;
+mso-table-rspace:0pt;
+}
+
+img{
+-ms-interpolation-mode:bicubic;
+}
+</style>
+
+<!-- MOBILE CSS STYLES: TV -->
+<style type="text/css">	
+@media
+ only screen and (max-width:750px) 
+.w100m, .column50, .column33, .column25, .column75, .column66 { width: 100% !important; }
+.w95m { width: 95% !important;}
+.w90m { width: 90% !important;}
+.w80m { width: 80% !important;}  
+.w70m { width: 70% !important;}  
+.expandm { width: 100% !important; display: block !important; }
+.h1m { font-size: 30px !important; line-height: 1.1em !important; }
+.h2m { font-size: 18px !important;}
+.h3m { font-size: 13px !important;}
+.tcenterm { text-align: center 
+!important; }
+.left_alignm{text-align:left !important;}
+.top_pad20m{padding-top:20px !important;}
+.top_pad30m{padding-top:30px !important;}
+.btm_pad20m{padding-bottom:20px !important;}
+.btm_pad30m{padding-bottom:30px !important;}
+.no-top_padm{padding-top: 0 !important;}
+.no-bottom_padm{padding-bottom: 0 !important;}
+.showm { display: block !important; max-height: 1000px !important; width: 100% !important; overflow: visible !important; align: center !important; }  
+.hidem { display: none 
+!important; }
+.heightm { height: auto !important;}
+
+
+</style>
+
+<!-- NEEDED CLASS TO FORCE OUTLOOK TO USE ARIAL FONT. ADD FALLBACK-FONT CLASS TO EVERY LINE OF TEXT (YES I KNOW ITS ANNOYING BUT SO IS OUTLOOK) -->
+<!--[if mso]>
+<style type="text/css">
+.fallback-font {
+  font-family: Arial, sans-serif;
+}
+</style>
+<![endif]-->
+</head>
+
+<body style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;height:100%;margin:0;-webkit-margin-before:0;-webkit-margin-after:0;padding: 0 !important;font-family:'CiscoSansTT', Arial, helvetica, sans-serif;font-size:16px;mso-line-height-rule: exactly; line-height:150%;color:#333333;" yahoo="yahoo"><div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+    [Connect without time limits this holiday season]
+</div>
+
+
+
+
+
+
+<!-- Wrapper sets the page background in webmail clients when body tag is ignored -->
+
+<table role="presentation" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0px;mso-table-rspace:0px;border-spacing:0;box-shadow:0 33px 49px 0 rgba(158,158,158,0.3);" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#EDEDED">
+
+<tbody><tr>
+
+<td align="center" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0px;mso-table-rspace:0px;height:100%;margin:0;-webkit-margin-before:0;-webkit-margin-after:0;padding:0;font-family:'CiscoSansTT', Arial, helvetica, sans-serif;font-size:16px;mso-line-height-rule: exactly; line-height:150%;color:#333333;" class="">
+<!-- <tr><td><hr style="max-height:1px; margin:0; padding:0;" color="#FF0000"></td></tr> -->
+  <!-- insert view in browser code -->
+     
+<!--[if (gte mso 9)|(IE)]>
+  <table role="presentation" width="640" align="center" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td align="center" valign="top" width="640">
+<![endif]-->
+
+<table role="presentation" class="emailBody" align="center" cellpadding="0" cellspacing="0" border="0" width="640" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0px;mso-table-rspace:0px;border-spacing:0;text-align:left;width:100%;max-width:640px;background:#ededed;box-shadow:0 33px 49px 0 rgba(158,158,158,0.3);">
+<tbody>
+<tr>
+
+    <td align="center" class="blkH1 addGutters" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0px;mso-table-rspace:0px;height:100%;margin:0;-webkit-margin-before:0;-webkit-margin-after:0;padding:0;font-family:'CiscoSansTT', Arial, helvetica, sans-serif;font-size:12px;font-weight: 300;mso-line-height-rule: exactly; line-height:150%;color:#0C1014; padding-top:5px;padding-left:75px;padding-right:75px; padding-bottom:5px; background-color: #ededed;">
+
+     <a href="https://app.use.webex.com/e/es?s=1485857328&e=15218834&elqTrackId=ECD5DFA93ACEE0EDD64B035F785388ED&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1" style="font-family:'CiscoSansTT', Arial, Helvetica, sans-serif;font-size:11px;font-weight: 300;line-height:150%;color:#535759; text-decoration:none;" title="null">view in browser</a><br>
+    </td>
+  </tr>
+
+
+  <!-- HEADER START --->
+
+<tr>
+                      <td class="mobilebg" align="left" valign="top" height="300">
+
+
+                      <table cellpadding="0" cellspacing="0" border="0" height="300" width="640">
+<tr>
+<td bgcolor="#ffffff" width="640" valign="top">
+
+<div>
+
+<table role="presentation" width="100%" align="center" cellpadding="0" cellspacing="0" border="0" class="tableCollapse" style="margin:0px auto; width:100%!important; min-width:100%!important;">
+                              <tr>
+
+                                  <td class="" valign="top" align="center" style=" line-height:1px;font-size: 0px;line-height: 0px;padding-left:20px; padding-right:20px;">
+                                      <!----EMAIL HEADER START --->
+
+
+
+
+                  <table role="presentation" border="0" width="600" cellspacing="0" cellpadding="0" align="center" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0;mso-table-rspace:0;mso-line-height-rule:exactly;border-collapse:collapse;border-spacing:0;max-width:600px;">
+  <tbody><tr>
+  <td width="300" style="padding: 30px 0px 0px 25px; text-align: left;" class="">
+
+<a href="https://www.webex.com?elqTrackId=c05174ad08124e84a069130c9da668bf&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1&elqCampaignId=679" target="_blank" title="Visit www.webex.com" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0;border:none;height:auto;outline:none;">
+
+        <img src="https://images.use.webex.com/EloquaImages/clients/CMCWebEx/%7B4e79b32c-4ddb-4d2d-b306-bd3424c780e6%7D_872x107-cisco-webex-blk-logo.png" alt="Cisco Webex" width="106" style="-ms-interpolation-mode:bicubic;margin:0;border:none;height:auto;outline:none;width:106px;" border="0" class="">
+      </a> </td>
+
+
+
+           <td align="right" width="50%" style="padding: 30px 25px 0px 0px;  font-family:'CiscoSansTT', Arial, helvetica, sans-serif;font-size:16px; color:#171B1F; font-color:#171B1F;" class="">
+
+         <a href="https://app.use.webex.com/e/er?s=1485857328&lid=617&elqTrackId=95dd33e2e16b4e70b695a20c42c7425f&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1" target="_blank" title="Sign in" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0;border:none;height:auto;outline:none;color:#00A0D1;font-weight:normal;text-decoration:none;font-family:'CiscoSansTT', Arial, helvetica, sans-serif;font-size:16px; color:#171B1F;"><span style="text-decoration:none; color:#171B1F;">Sign&nbsp;in
+</span></a>
+          </td>
+  </tr>
+  </tbody></table>					
+
+
+                                      <!----EMAIL HEADER END --->	
+
+                                  </td>
+                              </tr><!----SPACER START --->
+  <tr>
+<td height="25" width="100%" bgcolor="#ffffff" style="font-size: 20px; line-height: 20px; mso-padding-alt: 10px 60px 10px 0px;">&nbsp;
+
+</td>
+</tr>
+  <!---SPACER END --->
+                              <tr>
+
+                                  <td valign="top" align="center">
+                                      <!----EMAIL HEADLINE START --->	
+                            <table role="presentation" width="100%" align="center" cellpadding="0" cellspacing="0" border="0" class="tableCollapse" style="margin:0px auto; width:100%!important; min-width:100%!important;">
+								
+
+        <tr>
+<td class="" bgcolor="#ffffff" align="center" style="margin: 0; padding: 0; outline: none;">  <!--[if mso]>
+<table width="100%" style="width:100%;height:auto;max-width:600px" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px;" align="center"><![endif]--> 
+          <a href="https://app.use.webex.com/e/er?s=1485857328&lid=221&elqTrackId=a01c61a18c774c7f84c0863da6f7a973&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1" target="_blank" style="font-color: #20433d; color: #20433d; text-decoration: none;">
+ <img alt="Unlimited Holiday Cheer" height="auto" src="https://images.use.webex.com/EloquaImages/clients/CMCWebEx/%7B4ee5c89f-2a06-4b91-a8b0-394e44fe4cad%7D_706x422-holiday-cheer-banner-default.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;" width="600"></a>
+       <!--[if mso]></td></tr></table><![endif]--></td>
+</tr>
+      </table>
+
+
+
+
+                                          <!----EMAIL HEADLINE END --->	
+                                  </td>
+
+                             
+	
+	  </tr>
+
+                          </table>                      
+
+
+    </div>
+<!--[if gte mso 9]>
+</v:textbox>
+</v:rect>
+<![endif]-->
+</td>
+</tr>
+</table>  
+
+
+
+
+
+</td>
+                  </tr>
+<tr>
+
+<td class="blkH2 addGutters mobiletextbig" bgcolor="#ffffff" align="center" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0px;mso-table-rspace:0px;height:100%;margin:0;-webkit-margin-before:0;-webkit-margin-after:0;padding:0;font-family:'CiscoSansTT', Arial, Helvetica, sans-serif;font-size:36px;mso-height-rule: exactly; line-height:125%;padding-top:40px; padding-bottom:10px; padding-left:75px;padding-right:75px;background-color:#ffffff; font-weight:bold; color: #171B1F;">
+Celebrating
+ more together&nbsp;time  
+</td>
+</tr>
+
+  <!---HEADER END --->
+ <!---BODY COPY TEXTt START --->
+	
+	<tr>
+
+<td class="blkH2 addGutters fallback-font mobiletextbig" bgcolor="#ffffff" align="center" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0px;mso-table-rspace:0px;height:100%;margin:0;-webkit-margin-before:0;-webkit-margin-after:0;padding:0;font-family:'CiscoSansTT', Arial, Helvetica, sans-serif;font-size:18px;mso-height-rule: exactly; line-height:150%;padding-top:0px; padding-bottom:30px; padding-left:75px;padding-right:75px;background-color:#ffffff; color: #333333;">We
+ know this holiday season will be different than others. That's why we want to give you an extra little gift to help you wind down from work and enjoy extra time with family&nbsp;and&nbsp;friends. 
+</td>
+</tr>
+  <tr>
+
+<td class="blkH2 addGutters fallback-font mobiletextbig" bgcolor="#ffffff" align="center" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0px;mso-table-rspace:0px;height:100%;margin:0;-webkit-margin-before:0;-webkit-margin-after:0;padding:0;font-family:'CiscoSansTT', Arial, Helvetica, sans-serif;font-size:18px;mso-height-rule: exactly; line-height:150%;padding-top:0px; padding-bottom:30px; padding-left:75px;padding-right:75px;background-color:#ffffff; color: #333333;">In
+ the spirit of the holidays please <strong>enjoy unlimited meeting time from December 21, 2020 to January&nbsp;2,&nbsp;2021.</strong>
+</td>
+</tr>
+<tr>
+
+<td class="blkH2 addGutters mobiletextbig" bgcolor="#ffffff" align="center" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0px;mso-table-rspace:0px;height:100%;margin:0;-webkit-margin-before:0;-webkit-margin-after:0;padding:0;font-family:'CiscoSansTT', Arial, Helvetica, sans-serif;font-size:18px;mso-height-rule: exactly; line-height:150%;padding-top:0px; padding-bottom:40px; padding-left:75px;padding-right:75px;background-color:#ffffff; color: #333333;">
+Happy
+ Holidays<br>
+  From the Webex&nbsp;Team
+</td>
+</tr>
+	
+	<!--BODY COPY TEXT END--->
+
+
+
+ 
+  <!-- Body copy -->
+</tbody></table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+	
+	
+	
+	
+	
+	
+	
+	
+<!-- COMPLETE FOOTER -->
+<!--[if (gte mso 9)|(IE)]>
+<table width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td align="center" valign="top" width="600">
+<![endif]-->
+
+<table width="600" class="emailFooter" align="center" cellpadding="0" cellspacing="0" border="0" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0px;mso-table-rspace:0px;border-spacing:0;text-align:center;width:auto;max-width:640px;background-color: #052f71; width:100%">  <tbody>
+<!-- SOCIAL LINKS ROW START-->
+<tr>
+
+<td class="ftrSocial addTop40" align="center" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0px;mso-table-rspace:0px;height:100%;margin:0;-webkit-margin-before:0;-webkit-margin-after:0;padding:0;font-family:'CiscoSansTT', Arial, Helvetica, sans-serif;font-size:16px;mso-height-rule: exactly; line-height:150%;color:#333333;padding-top:40px;font-size:11px;text-decoration:none;width:100% !important;text-align:center !important;">
+</td>
+</tr>
+
+<!-- Social Media Icons / Links Start -->
+<tr>
+<td align="center" class="ftrLink addTop35" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0px;mso-table-rspace:0px;height:100%;margin:0;-webkit-margin-before:0;-webkit-margin-after:0;padding:0;font-family:'CiscoSansTT', Arial, Helvetica, sans-serif;font-size:16px;mso-height-rule: exactly; line-height:150%;color: #929596;;padding-top:5px;font-size:14px;padding-bottom:20px;">
+<!-- Social Media Icons / Links Start -->
+
+<table width="40%;" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+<td style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0; padding-right:7px;">
+
+<a class="ctaFooterLnk" href="https://app.use.webex.com/e/er?s=1485857328&lid=149&elqTrackId=d8555f2ed8ee4a0d952f973282e24a20&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1" target="_blank" title="Twitter" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0;border:none;height:auto;outline:none;color:#0AC9EF;font-weight:normal;font-size:13px;color:#B4B6B8;text-decoration:none;">
+<img src="https://images.use.webex.com/EloquaImages/clients/CMCWebEx/%7Bb4ac36e9-554c-441d-b261-fb15865fba54%7D_twitter-circle_24_w.png" alt="Visit our Twitter community"></a>
+</td>
+<td style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0; padding-right:7px;">
+
+<a class="ctaFooterLnk" href="https://app.use.webex.com/e/er?s=1485857328&lid=148&elqTrackId=97dda549407546c7a14ace8bde1a6788&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1" target="_blank" title="LinkedIn" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0;border:none;height:auto;outline:none;color:#0AC9EF;font-weight:normal;font-size:13px;color:#B4B6B8;text-decoration:none;">
+<img src="https://images.use.webex.com/EloquaImages/clients/CMCWebEx/%7Ba268c678-fc08-46a4-ab29-4e89eaacc235%7D_linkedin-circle_24_w.png" alt="Visit our LinkedIn community"></a>
+</td>
+<td style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0; padding-right:7px;">
+
+<a class="ctaFooterLnk" href="https://app.use.webex.com/e/er?s=1485857328&lid=147&elqTrackId=3bba3e91ab8746cb92ce6e58310b2ff4&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1" target="_blank" title="Facebook" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0;border:none;height:auto;outline:none;color:#0AC9EF;font-weight:normal;font-size:13px;color:#B4B6B8;text-decoration:none;">
+<img src="https://images.use.webex.com/EloquaImages/clients/CMCWebEx/%7Bb091cfce-2d06-411f-bcc7-a7b533fa7f19%7D_facebook-circle_24_w.png" alt="Visit our Facebook community"></a>
+</td>
+<td style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0; padding-right:7px;">
+
+<a class="ctaFooterLnk" href="https://app.use.webex.com/e/er?s=1485857328&lid=146&elqTrackId=c72a967bc52f4a3b84b2d3ba9bc95891&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1" target="_blank" title="YouTube" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0;border:none;height:auto;outline:none;color:#0AC9EF;font-weight:normal;font-size:13px;color:#B4B6B8;text-decoration:none;">
+<img src="https://images.use.webex.com/EloquaImages/clients/CMCWebEx/%7Bcd1e5d3b-4971-40dc-965d-9c070f210aa7%7D_youtube-circle_24_w.png" alt="Visit our YouTube community"></a>
+</td>
+<td style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0; padding-right:7px;">
+
+<a class="ctaFooterLnk" href="https://app.use.webex.com/e/er?s=1485857328&lid=1492&elqTrackId=c3ef4baa20a444dca1b930159f225039&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1" target="_blank" title="Blog" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0;border:none;height:auto;outline:none;color:#0AC9EF;font-weight:normal;font-size:13px;color:#B4B6B8;text-decoration:none;">
+<img src="https://images.use.webex.com/EloquaImages/clients/CMCWebEx/%7Bbb8e3bfb-6e35-49f5-bf6d-65fd5dc18e1d%7D_rss-circle_24_w.png" alt="Visit our blog"></a>
+</td>
+<td style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0;">
+
+<a class="ctaFooterLnk" href="https://app.use.webex.com/e/er?s=1485857328&lid=1491&elqTrackId=ff6445c8a55846d6857a1fc007a19f3e&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1" target="_blank" title="Instagram" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0;border:none;height:auto;outline:none;color:#0AC9EF;font-weight:normal;font-size:13px;color:#B4B6B8;text-decoration:none;">
+<img src="https://images.use.webex.com/EloquaImages/clients/CMCWebEx/%7Bd547caab-af8a-477b-90f5-3b3607c6c5e5%7D_instagram-circle_24_w.png" alt="Visit our Instagram community"></a>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- Social Media Icons / Links END -->
+</td>
+</tr>
+
+<!-- DISCLAIMERS -->
+<!-- SIGNATURE -->
+
+
+<!-- Signature -->
+<!-- Disclaimers -->
+<!-- COPYRIGHT INFO -->
+
+<!-- Copyright Info -->
+<!--- START ELOQUA ID AND EMAIL ADDRESS SENT TO ---> 
+
+<tr>
+    
+<td class="ftrCopy addTop35 mobiletextbig" style="text-size-adjust: 100%; height: 100%; margin: 0px; margin-block-start: 0px; margin-block-end: 0px; padding: 20px 0px 20px; mso-height-rule: exactly; line-height: 150%; font-size: 11px; color: #D1D2D4; text-decoration: none; border-style: none;">EM# 3772 | Sent to <span class="fallback-font" style="font-color:#0ac9ef; color:#0ac9ef;">siddharth@triesoftware.com</span><br><br></td> 
+</tr> 
+
+<!--- END ELOQUA ID AND EMAIL ADDRESS SENT TO --->
+ 
+
+</tbody></table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!-- Complete Footer -->
+
+</td></tr>
+</tbody>
+
+</table>
+
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+	<tbody>
+		<tr>
+			<td style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#666666;">
+			<p><strong>
+<a data-targettype="webpage" href="https://app.use.webex.com/e/er?s=1485857328&lid=2892&elqTrackId=79808cf20ba9499c91a4cbf9251b283e&emailAddress=siddharth%40triesoftware.com&country=IN&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1&elqcst=272&elqcsid=155" title="https://s1485857328.t.eloqua.com/e/f2?elqFormName=dynamicfootercdc&elqSiteID=1485857328&footerlanguage=EN&emailAddress=siddharth%40triesoftware.com&country=IN&elqTrack=true">Webex.com</a></strong>
+ | <a href="https://app.use.webex.com/e/er?s=1485857328&lid=2891&elqTrackId=39545b40163b4c548a1a7ce8b327f22b&emailAddress=siddharth%40triesoftware.com&country=IN&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1&elqcst=272&elqcsid=155" title="https://s1485857328.t.eloqua.com/e/f2.aspx?elqFormName=dynamicfooter&elqSiteID=1485857328&emailAddress=siddharth%40triesoftware.com&country=IN&footerlanguage=EN&elqTrack=true"><strong>Privacy</strong> </a> | <strong>
+<a data-targettype="webpage" href="https://app.use.webex.com/e/er?s=1485857328&lid=2296&elqTrackId=d1c38544fcad43afa10484c5e10a3013&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1&elqcst=272&elqcsid=155" title="https://www.cisco.com/c/en/us/about/legal/terms-conditions.html">Terms &amp; Conditions</a></strong> | <strong>
+<a data-targettype="webpage" href="https://app.use.webex.com/e/er?s=1485857328&lid=2890&elqTrackId=078320011dc04383b0b2f7261c144eba&emailAddress=siddharth%40triesoftware.com&country=IN&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1&elqcst=272&elqcsid=155" title="https://s1485857328.t.eloqua.com/e/f2.aspx?elqFormName=dynamicfooter-cookies&elqSiteID=1485857328&emailAddress=siddharth%40triesoftware.com&country=IN&footerlanguage=EN&elqTrack=true">Cookies</a></strong> | <strong>
+<a data-targettype="webpage" href="https://app.use.webex.com/e/er?s=1485857328&lid=2295&elqTrackId=a0c18c1bda644339bf0b65ba0e557cc0&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1&elqcst=272&elqcsid=155" title="https://www.cisco.com/c/en/us/about/legal/trademarks.html">Trademarks</a></strong><br />
+			<br />
+			<strong>
+<a data-targetname="AMER_US_EN_IMP_Unsubscribe_GELP_FY20Q3_341 (use.webex.com)" data-targettype="landingpage" href="https://app.use.webex.com/e/er?s=1485857328&lid=3016&elqTrackId=a52190165e7c432887f292ac9f65d800&emailName=FY21_EN_1_HolidayPromo_3772&WECID=679&elq=f2443fced2514e12a702c96c7a8cb406&elqaid=3772&elqat=1&elqcst=272&elqcsid=155">Click here to unsubscribe</a></strong>
+ from Cisco marketing communications. Cisco will continue to send service/transactional communications, including those that have to do with any accounts that you may have with us.<br />
+			<br />
+			Copyright &copy; 2020, Cisco Systems, Inc. All rights reserved. Cisco, Cisco Systems and the Cisco Systems logo are registered trademarks of Cisco Systems, Inc. and/or its affiliates in the United States and certain other countries.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+	<tbody>
+		<tr>
+			<td style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#666666;">
+			<p><br />
+			Cisco Commerce India Private Limited<br />
+			Prestige Solitaire,<br />
+			Level-II, No. 6, Brunton Road<br />
+			Bangalore<br />
+			Karnataka<br />
+			560001<br />
+			India</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+<img src='https://app.use.webex.com/e/FooterImages/FooterImage1?elq=f2443fced2514e12a702c96c7a8cb406&siteid=1485857328' alt="" border=0 width=1px height=1px></body></html>
+----boundary_1229110_c8932a7c-e963-4357-8ccc-b0c1f2a3fd49--
+
+

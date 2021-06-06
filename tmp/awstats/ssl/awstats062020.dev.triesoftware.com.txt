@@ -1,0 +1,315 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202006 will be lost/reset.
+# Last config file used to build this data file was /home/trieadmin/tmp/awstats/ssl/awstats.dev.triesoftware.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2022                
+POS_TIME 2701                
+POS_VISITOR 6748                
+POS_DAY 7917                
+POS_DOMAIN 3330                
+POS_LOGIN 3610                
+POS_ROBOT 3765                
+POS_WORMS 3926                
+POS_EMAILSENDER 4057                
+POS_EMAILRECEIVER 4200                
+POS_SESSION 8220                
+POS_SIDER 8414                
+POS_FILETYPES 4335                
+POS_DOWNLOADS 4597                
+POS_OS 4645                
+POS_BROWSER 4770                
+POS_SCREENSIZE 5026                
+POS_UNKNOWNREFERER 5100                
+POS_UNKNOWNREFERERBROWSER 5255                
+POS_ORIGIN 5405                
+POS_SEREFERRALS 5546                
+POS_PAGEREFS 5690                
+POS_SEARCHWORDS 6045                
+POS_KEYWORDS 6197                
+POS_MISC 2364                
+POS_ERRORS 6256                
+POS_CLUSTER 3466                
+POS_SIDER_404 6361                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200701001619 26 6652 16127515604184
+FirstTime 20200605133750
+LastTime 20200630151817
+LastUpdate 20200701072825 26 0 25 0 0
+TotalVisits 33                  
+TotalUnique 27                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 27                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 46 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 10 372376 6 8 2170
+1 6 29 997067 0 0 0
+2 10 57 2311127 0 1 971
+3 0 0 0 0 0 0
+4 18 89 3558112 0 1 680
+5 24 65 2723144 0 3 7660
+6 40 180 8549930 1 3 1360
+7 4 5 377982 18 18 0
+8 10 14 680 0 0 0
+9 1 1 1450 0 0 0
+10 2 11 375540 0 2 4340
+11 0 0 0 2 4 0
+12 21 26 6029 3 7 0
+13 35 181 8655748 3 10 22339
+14 92 582 23830141 12 26 12623
+15 78 442 18439286 13 22 7768
+16 1 1 0 0 0 0
+17 5 10 537868 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 13 63 2633065 2 5 971
+23 6 12 88141 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+us 201 1012 41704116
+in 160 751 30608288
+ca 5 13 1141621
+fr 2 2 3661
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+checker 1 0 20200605135117 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 437 3599756 0 0
+svg 108 869652 0 0
+html 94 52921 0 0
+png 166 2652051 0 0
+Unknown 33 13589 0 0
+jpg 56 9050915 0 0
+js 643 17755390 0 0
+map 12 1133946 0 0
+woff2 227 38215304 0 0
+woff 2 114162 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+Unknown 4 4
+linux 177 47
+linuxandroid 215 57
+win10 1382 260
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+firefox75.0 30 6
+chrome83.0.4103.61 12 4
+chrome83.0.4103.116 250 59
+Unknown 4 4
+edge15 2 2
+chrome83.0.4103.97 183 46
+chrome83.0.4103.106 1177 222
+chrome78.0.3904.108 89 18
+firefox77.0 29 5
+firefox58.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+My_User_Agent_1.0 20200623163526
+WhatsApp/2.20.123_A 20200629042827
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+My_User_Agent_1.0 20200623163526
+WhatsApp/2.20.123_A 20200629042827
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 109 111
+From1 0 0
+From2 0 0
+From3 13 13
+From4 246 1654
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://triesoftware.com:2083 7 7
+https://server3.kproxy.com/doproxy.jsp 3 3
+https://triesoftware.com:2083/cpsess2066672657/frontend/paper_lantern/ncssl/index.live.php 2 2
+https://kproxy.com/doproxy.jsp 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 25 0
+206 2 6980
+403 34 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/home 16 -
+/contacts 7 -
+/cgi-bin/ 1 https://dev.triesoftware.com/
+/index 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 27
+157.45.215.73 118 652 26253161 20200623155441
+49.37.192.42 64 397 17302010 20200623152411
+1.22.165.220 44 155 6353655 20200629062359
+137.97.236.136 28 122 6105477 20200629071704
+137.97.234.148 18 89 3558112 20200629043532
+1.22.167.106 12 59 2500118 20200628021627
+157.45.197.108 10 40 1854345 20200625171328
+1.22.165.101 7 12 491 20200624124604
+1.22.165.33 7 33 1317647 20200623225123
+165.225.104.60 6 30 1315418 20200623223631
+1.22.167.118 6 12 88141 20200629233726
+162.213.41.93 5 29 1315986 20200623134542
+137.97.225.78 5 28 924064 20200629141730
+1.39.133.212 5 7 0 20200629085528
+106.51.242.202 5 29 1314739 20200624020832
+1.22.167.140 5 25 794580 20200630151817
+137.97.229.240 5 7 680 20200629085244
+192.95.12.101 4 12 1140998 20200605134802
+62.210.10.77 2 2 3661 20200624122308
+52.52.180.54 2 2 0 20200623163526
+157.49.174.134 2 11 375540 20200606105542
+223.186.50.203 2 2 188991 20200629071218
+49.37.194.52 2 10 372376 20200607001405
+38.145.80.32 1 1 679 20200623152744
+167.114.102.230 1 1 623 20200605133750
+38.145.112.114 1 1 654 20200605135141
+223.237.253.55 1 10 375540 20200605135237
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20200605 7 24 1517815 4
+20200606 3 12 376990 2
+20200607 2 10 372376 1
+20200623 203 1144 47504901 8
+20200624 18 72 2633918 4
+20200625 5 10 537868 1
+20200627 7 31 1503730 1
+20200628 5 28 996388 1
+20200629 113 422 17219120 10
+20200630 5 25 794580 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 1
+1h+ 2
+30s-2mn 2
+0s-30s 22
+5mn-15mn 2
+2mn-5mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 94 52921 30 12
+/icofont.9c33516aab48c61e3081.woff2 57 28507004 0 10
+/la-regular-400.8dc1cedf1f4987f82b72.woff2 57 632100 0 1
+/la-brands-400.3a8109c4ac75662f8355.woff2 57 4238600 0 2
+/la-solid-900.3efd5ba15a279377d224.woff2 56 4837600 0 0
+/home 26 8833 2 4
+/contacts 7 4756 0 1
+/assets/vendor/bootstrap/css/bootstrap.min.css.map 6 630618 1 2
+/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map 6 503328 0 1
+/la-brands-400.925b340f49e65e8bab10.woff 1 98673 0 0
+/la-regular-400.aa859c0d08b8193d6586.woff 1 15489 0 0
+END_SIDER
